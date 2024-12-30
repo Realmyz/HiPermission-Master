@@ -20,15 +20,14 @@ A simple and beautiful runtime permission library on Android.[中文文档](/REA
 # Usage
 Use Gradle:
 
-	compile 'me.weyye.hipermission:library:1.0.7'
+	implementation 'com.github.Realmyz:HiPermission-Master:1.0.9'
 
 Or Maven:
 
 	<dependency>
-	  <groupId>me.weyye.hipermission</groupId>
-	  <artifactId>library</artifactId>
-	  <version>1.0.7</version>
-	  <type>pom</type>
+	    <groupId>com.github.Realmyz</groupId>
+	    <artifactId>HiPermission-Master</artifactId>
+	    <version>1.0.9</version>
 	</dependency>
   
   In your Activity or anywhere:
